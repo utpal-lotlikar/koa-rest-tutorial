@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@hapi/joi": "^15.0.3",
+    "@hapi/joi": "^15.1.1",
     "koa": "^2.7.0",
     "koa-body": "^4.1.0",
     "koa-jwt": "^3.5.1",
