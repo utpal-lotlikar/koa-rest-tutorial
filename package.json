@@ -18,7 +18,7 @@
     "koa-logger": "^3.2.0",
     "koa-router": "^7.4.0",
     "koa2-cors": "^2.0.6",
-    "mysql2": "^3.9.4",
+    "mysql2": "^3.9.8",
     "reflect-metadata": "^0.1.13",
     "typeorm": "^0.3.20",
     "uniqid": "^5.0.3"
